@@ -1,0 +1,13 @@
+http://localhost:3000/notes
+
+
+
+###
+
+POST http://localhost:3000/notes
+content-type: application/json
+
+{
+    "title": "sample",
+    "description": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
